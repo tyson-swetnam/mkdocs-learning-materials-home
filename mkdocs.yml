@@ -1,9 +1,9 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Test readthedocs
+site_description: 'A readthedocs test of mkdocs material'
+site_author: 'Tyson Lee Swetnam'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'tyson-swetnam/mkdocs-reathedocs-template'
+repo_url: 'https://github.com/tyson-swetnam/mkdocs-readthedocs-template'
 nav:
     - Home: index.md
 theme:
