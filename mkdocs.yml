@@ -1,9 +1,16 @@
-site_name: readthedocs template
-site_description: 'A readthedocs page using mkdocs material'
-site_author: 'Tyson Lee Swetnam'
 docs_dir: docs/
 repo_name: 'tyson-swetnam/mkdocs-readthedocs-template'
 repo_url: 'https://github.com/tyson-swetnam/mkdocs-readthedocs-template'
+
+site_name: 'CyVerse Learning Center'
+site_description: 'Documentation for CyVerse Platforms and Education'
+site_author: 'CyVerse Science Team'
+site_url: https://tyson-swetnam.github.io/learning-materials-home-mkdocs/
+
+edit_uri: edit/main/docs
+
+# Copyright
+copyright: 'Copyright &copy; 2022 CyVerse'
 
 # Navigation Page
 nav:
