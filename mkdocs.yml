@@ -1,5 +1,5 @@
-site_name: Test readthedocs
-site_description: 'A readthedocs test of mkdocs material'
+site_name: readthedocs template
+site_description: 'A readthedocs page using mkdocs material'
 site_author: 'Tyson Lee Swetnam'
 docs_dir: docs/
 repo_name: 'tyson-swetnam/mkdocs-readthedocs-template'
