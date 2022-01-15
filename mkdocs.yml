@@ -7,7 +7,15 @@ repo_url: 'https://github.com/tyson-swetnam/mkdocs-readthedocs-template'
 
 # Navigation Page
 nav:
-    - Home: index.md
+  - Home: index.md
+  - Quick Start Guides: quick_starts.md
+  - Platform Guides: platform_guides.md
+  - Power Users: power_users.md
+  - Tools and Apps: tools_and_apps.md
+  - Tutorials: tutorials.md 
+  - Webinars: webinars.md
+  - Workshops: workshops.md
+  - Contributing: contributing.md
 
 # Reset theme to readthedocs
 theme:
