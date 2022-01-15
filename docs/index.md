@@ -1,40 +1,64 @@
-## Sample
+![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){: width="400" }
 
-One more, finally. Or not? :)
+![!Learning Home](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/homeicon.png "Home"){: width="50" }[Learning Center Home](http://learning.cyverse.org/)
 
-Now:
+**Welcome to the CyVerse Learning Center**
 
-```
-$ some 
-```
+The CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
 
-Look what she said:
+# Getting Started
 
-> This is it!
+**Account Creation**
 
-### Subtitle
+- [Create a CyVerse account](http://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
 
-And now this:
+**What to do first**
 
-- One
-- Two
-- Three
+- [Upload your data](https://cyverse-data-store-quickstart.readthedocs-hosted.com/en/latest/)
+- [Launch an analysis](https://learning.cyverse.org/projects/cyverse-de2-guide/en/latest/step5.html)
+
+**Managing data**
+
+- [Data Store Guide](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/)
+
+**Data Science Workbench**
+   
+-   Interactive computing with [JupyterLab](https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html)
+-   Finding apps in the [Discovery Environment Guide](http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/)
+
+**Featured Tutorials**
+
+- [RNA-Seq with Kallisto and Sleuth](https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/)
+- [Genome Annotation with MAKER](https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/annotation.html)
+- [Filter, Trim, and Process High-throughput Sequencing Reads with Trimmomatic](https://cyverse-trimmomatic-quickstart.readthedocs-hosted.com/en/latest/)
+- [Condensed R: 240-minute tutorial](https://cyverse-240-minute-r-tutorial.readthedocs-hosted.com/en/latest/) 
+
+- [Self Paced Tutorials](https://learning.cyverse.org/en/latest/tutorials.html)
 
 
-#### As well
+**For Advanced Users**
 
-#### As this
+-   [Command Line Transfer with iCommands](https://learning.cyverse.org/projects/data_store_guide/en/latest/step2.html#)
+-   [Integrating Tools and Apps](https://learning.cyverse.org/en/latest/tools_and_apps.html)
 
-### Another
+**Bring your own tools**
 
-[a link](https://aws.com)
+- [Create and Run Docker Images](https://cyverse-creating-docker-containers-quickstart.readthedocs-hosted.com/en/latest/)
 
-More?
+**Funding and Citations:**
 
+CyVerse is funded entirely by the National Science Foundation under
+Award Numbers DBI-0735191, DBI-1265383, and DBI-1743442.
 
-Can we now have `the build`?
+Please cite CyVerse appropriately when you make use of our resources,
+see CyVerse [citation policy](http://www.cyverse.org/acknowledge-cite-cyverse)
 
-NOW!
+**Fix or improve this documentation**
 
+We make regular contributions to these materials, and you can suggest
+new materials or create and share your own. If you have ideas or
+suggestions please email [Learning@CyVerse.org](Learning@cyverse.org). 
 
-Not gonna work, is it?
+You can also view, edit, and submit contributions on [GitHub](https://github.com/cyverse-learning-materials).
+
+- This Page On Github: [GitHub](https://github.com/cyverse-learning-materials/learning-materials-home)
