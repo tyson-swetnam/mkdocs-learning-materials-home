@@ -1,6 +1,6 @@
-![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }
+[![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
 
-[:material-home: Learning Center Home](http://learning.cyverse.org/)
+[![!Learning Home](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" } [Learning Center Home](http://learning.cyverse.org/)]](https://learning.cyverse.org)
 
 **Welcome to the CyVerse Learning Center**
 
