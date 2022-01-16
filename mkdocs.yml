@@ -24,9 +24,10 @@ nav:
   - Workshops: workshops.md
   - Contributing: contributing.md
 
-# Reset theme to readthedocs
+# Resets the theme to readthedocs
+# must also set Action to use @nomaterial branch instead of @master for material
 theme:
-  name: material
+  name: readthedocs
   
 # Extensions
 markdown_extensions:
