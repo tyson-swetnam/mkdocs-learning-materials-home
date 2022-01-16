@@ -26,7 +26,7 @@ nav:
 
 # Reset theme to readthedocs
 theme:
-  name: readthedocs
+  name: material
   
 # Extensions
 markdown_extensions:
