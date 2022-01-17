@@ -1,6 +1,6 @@
-[![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
+[![!CyVerse Learning Center](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
 
-[![!Learning Home](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
+[![!Learning Home](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
 # Power Users
 
@@ -18,15 +18,11 @@ For letters of support and collaboration, email <411@cyverse.org>
 
 There are several APIs to CyVerse\'s resources:
 
--   Terrain: RESTful API to many of CyVerse's services (authentication,
-    data store, VICE apps, DE apps):
+-   Terrain: RESTful API to many of CyVerse's services (authentication, data store, VICE apps, DE apps):
     -   [Swagger UI](https://de.cyverse.org/terrain/docs/index.html)
-    -   [Juptyer
-        Notebook](https://github.com/cyverse/terrain-notebook/blob/master/terrain-intro.ipynb)
-    -   [Run the Jupyter Notebook in the
-        DE](https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=0a66a5ec-9010-4b8c-9e75-ec0aa7e7bb1d&app-id=d61d9a26-e921-11e9-8fe0-008cfa5ae621)
--   [Tapis:](https://tacc-cloud.readthedocs.io/en/latest/) Formerly
-    Agave, an indepedent API to the HPC resources CyVerse uses at TACC
+    -   [Juptyer Notebook](https://github.com/cyverse/terrain-notebook/blob/master/terrain-intro.ipynb)
+    -   [Run the Jupyter Notebook in the DE](https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=0a66a5ec-9010-4b8c-9e75-ec0aa7e7bb1d&app-id=d61d9a26-e921-11e9-8fe0-008cfa5ae621)
+-   [Tapis:](https://tacc-cloud.readthedocs.io/en/latest/) Formerly Agave, an indepedent API to the HPC resources CyVerse uses at TACC
 
 ## External Collaborative Partnerships
 
@@ -50,8 +46,9 @@ services to their users, including:
 -   High-performance framework: Execute analyses on High Performance
     Computing resources.
 
-[Get Powered by CyVerse
-Today](https://www.cyverse.org/powered-by-cyverse)
+[Get Powered by CyVerse Today](https://www.cyverse.org/powered-by-cyverse)
+
+-----------------------------------------------------------------------
 
 **Funding and Citations:**
 
@@ -61,12 +58,18 @@ Award Numbers DBI-0735191, DBI-1265383, and DBI-1743442.
 Please cite CyVerse appropriately when you make use of our resources,
 see CyVerse [citation policy](http://www.cyverse.org/acknowledge-cite-cyverse)
 
+-----------------------------------------------------------------------
+
 **Fix or improve this documentation**
 
-We make regular contributions to these materials, and you can suggest
-new materials or create and share your own. If you have ideas or
-suggestions please email [Learning@CyVerse.org](Learning@cyverse.org). 
+  - Search for an answer:
+     [CyVerse Learning Center](https://learning.cyverse.org)
+  - Ask us for help:
+    click the Intercom icon ![Intercom](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/intercom.png){ width="25" } on the lower right-hand side of the page
+  - Report an issue or submit a change:
+    [Github Repo Link](https://github.com/cyverse-learning-materials/)
+  - Send feedback: <Tutorials@CyVerse.org>
+  
+------------------------------------------------------------------------
 
-You can also view, edit, and submit contributions on [GitHub](https://github.com/cyverse-learning-materials).
-
-- This Page On Github: [GitHub](https://github.com/cyverse-learning-materials/learning-materials-home)
+[Learning Center Home](http://learning.cyverse.org/)

@@ -1,30 +1,63 @@
-[![!CyVerse Learning Center](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
+[![!CyVerse Learning Center](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/cyverse_cmyk.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org)
 
-[![!Learning Home](https://github.com/tyson-swetnam/learning-materials-home-mkdocs/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
+[![!Learning Home](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/homeicon.png "Home"){ width="25" }](https://learning.cyverse.org) [Learning Center Home](http://learning.cyverse.org/)
 
-**Welcome to the CyVerse Learning Center**
+**Welcome to the Learning Center**
 
-The CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
+CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
 
-# Getting Started
+# What is CyVerse?
 
-**Account Creation**
+CyVerse provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. Our extensible platforms provide data storage, bioinformatics tools, data visualization, interactive analyses, cloud services, APIs, and more.
+
+CyVerse cyberinfrastructure includes:
+
+  - A data storage facility called the [Data Store](https://data.cyverse.org)
+  - An interactive, web-based, analytical data science workbench called the [Discovery Environment](https://de.cyverse.org) or DE for short. 
+  - Cloud infrastructure to access remote servers for computation, analysis, and storage called [Atmosphere](https://atmo.cyverse.org) and [Jetstream](https://use.jetstream-cloud.org/application)
+  - Web authentication and security services via [KeyCloak](https://kc.cyverse.org) and OAuth
+  - Support for scaling computational algorithms to run on large, high-speed computers
+  - Education and training in how to use cyberinfrastructure (these pages!)
+  - People with expertise in all of the above to help you and your team
+
+## Data Store
+
+- [Data Store Guide](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/)
+
+## Discovery Environment Workbench
+
+-   Finding apps in the [Discovery Environment Guide](http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/)
+
+### VICE
+
+- Visual Interactive Compute Environment (VICE) includes popular integrated development environments: [JupyterLab](https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html), RStudio, and VSCode.
+- Instant and on demand virtual machines running Ubuntu Linux command line interface.
+- Remote Desktops for high quality visualizations in your browser
+- GPU computing for machine learning and artificial intelligence.
+
+## Cloud
+
+- CyVerse created Atmosphere, a browser interface for working with OpenStack Cloud virtual machines
+- Partnered with NSF ACCESS Jetstream-2 for more and larger virtual machines.
+
+### Atmosphere
+
+- 
+
+### Jetstream-2
+
+- 
+
+## Account Creation
 
 - [Create a CyVerse account](http://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
+
+## Choosing a Platform
 
 **What to do first**
 
 - [Upload your data](https://cyverse-data-store-quickstart.readthedocs-hosted.com/en/latest/)
 - [Launch an analysis](https://learning.cyverse.org/projects/cyverse-de2-guide/en/latest/step5.html)
-
-**Managing data**
-
-- [Data Store Guide](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/)
-
-**Data Science Workbench**
-   
--   Interactive computing with [JupyterLab](https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html)
--   Finding apps in the [Discovery Environment Guide](http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/)
 
 **Featured Tutorials**
 
@@ -35,7 +68,6 @@ The CyVerse Learning Center is a release of our learning materials in the popula
 
 - [Self Paced Tutorials](https://learning.cyverse.org/en/latest/tutorials.html)
 
-
 **For Advanced Users**
 
 -   [Command Line Transfer with iCommands](https://learning.cyverse.org/projects/data_store_guide/en/latest/step2.html#)
@@ -45,6 +77,8 @@ The CyVerse Learning Center is a release of our learning materials in the popula
 
 - [Create and Run Docker Images](https://cyverse-creating-docker-containers-quickstart.readthedocs-hosted.com/en/latest/)
 
+-----------------------------------------------------------------------
+
 **Funding and Citations:**
 
 CyVerse is funded entirely by the National Science Foundation under
@@ -53,12 +87,18 @@ Award Numbers DBI-0735191, DBI-1265383, and DBI-1743442.
 Please cite CyVerse appropriately when you make use of our resources,
 see CyVerse [citation policy](http://www.cyverse.org/acknowledge-cite-cyverse)
 
+-----------------------------------------------------------------------
+
 **Fix or improve this documentation**
 
-We make regular contributions to these materials, and you can suggest
-new materials or create and share your own. If you have ideas or
-suggestions please email [Learning@CyVerse.org](Learning@cyverse.org). 
+  - Search for an answer:
+     [CyVerse Learning Center](https://learning.cyverse.org)
+  - Ask us for help:
+    click the Intercom icon ![Intercom](https://github.com/tyson-swetnam/cyverse_manual_template_mkdocs/raw/main/assets/intercom.png){ width="25" } on the lower right-hand side of the page
+  - Report an issue or submit a change:
+    [Github Repo Link](https://github.com/cyverse-learning-materials/)
+  - Send feedback: <Tutorials@CyVerse.org>
+  
+------------------------------------------------------------------------
 
-You can also view, edit, and submit contributions on [GitHub](https://github.com/cyverse-learning-materials).
-
-- This Page On Github: [GitHub](https://github.com/cyverse-learning-materials/learning-materials-home)
+[Learning Center Home](http://learning.cyverse.org/)
