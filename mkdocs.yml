@@ -1,11 +1,11 @@
 docs_dir: docs/
-repo_name: 'tyson-swetnam/mkdocs-readthedocs-template'
-repo_url: 'https://github.com/tyson-swetnam/mkdocs-readthedocs-template'
+repo_name: 'tyson-swetnam/mkdocs-learning-materials-home'
+repo_url: 'https://github.com/tyson-swetnam/mkdocs-learning-materials-home'
 
-site_name: 'CyVerse Learning Center'
+site_name: 'CyVerse Learning Home'
 site_description: 'Documentation for CyVerse Platforms and Education'
 site_author: 'CyVerse Science Team'
-site_url: https://tyson-swetnam.github.io/learning-materials-home-mkdocs/
+site_url: https://tyson-swetnam.github.io/mkdocs-learning-materials-home/
 
 edit_uri: edit/main/docs
 
@@ -14,7 +14,7 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 
 # Navigation Page
 nav:
-  - Home: index.md
+  - Home: index.md 
   - Quick Start Guides: quick_starts.md
   - Platform Guides: platform_guides.md
   - Power Users: power_users.md
@@ -24,11 +24,52 @@ nav:
   - Workshops: workshops.md
   - Contributing: contributing.md
 
-# Resets the theme to readthedocs
-# must also set Action to use @nomaterial branch instead of @master for material
+# JavaScript for Intercom Widget
+extra_javascript:
+  - javascripts/intercom-learning.js
+  
+# Set theme to `readthedocs`
+# must also set Action to use `@nomaterial` branch instead of `@master` for material
 theme:
   name: readthedocs
-  
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    text: Montserrat
+    code: Regular
+  favicon: assets/favicon.png
+  icon:
+    logo: material/rocket-outline-launch
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/
+    - icon: fontawesome/brands/github
+      link: https://github.com/cyverse-learning-material/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/cyverseorg
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/cyverse.org
+    - icon: fontawesome/brands/docker
+      link: https://harbor.cyverse.org/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/CyverseOrgProject
+#  analytics:
+#    provider: google
+#    property: 
+
 # Extensions
 markdown_extensions:
   - admonition
