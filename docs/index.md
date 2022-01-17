@@ -6,7 +6,7 @@
 
 CyVerse Learning Center is a release of our learning materials in the popular "Read the Docs" formatting.
 
-# What is CyVerse?
+## What is CyVerse?
 
 CyVerse provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. Our extensible platforms provide data storage, bioinformatics tools, data visualization, interactive analyses, cloud services, APIs, and more.
 
@@ -20,13 +20,17 @@ CyVerse cyberinfrastructure includes:
   - Education and training in how to use cyberinfrastructure (these pages!)
   - People with expertise in all of the above to help you and your team
 
+## Account Creation
+
+- [![!Account](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/cyverse_globe_cmyk.png "Account"){ width="20" }](https://user.cyverse.org) [Create a CyVerse account](https://user.cyverse.org)
+
 ## Data Store
 
-- [Data Store Guide](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/)
+- [![!Data Store](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/data_store/datastore-icon.png "Data Store"){ width="20" }](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/) [Data Store Guide](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/)
 
 ## Discovery Environment Workbench
 
--   Finding apps in the [Discovery Environment Guide](http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/)
+-   Find apps in the [![!Discovery Environment](https://github.com/tyson-swetnam/mkdocs-learning-materials-home/raw/main/assets/de/de_icon.png "Discovery Environment"){ width="20" }](https://learning.cyverse.org/projects/cyverse-discovery-environment-guide/) [Discovery Environment Guide](https://learning.cyverse.org/projects/cyverse-discovery-environment-guide/)
 
 ### VICE
 
@@ -38,19 +42,17 @@ CyVerse cyberinfrastructure includes:
 ## Cloud
 
 - CyVerse created Atmosphere, a browser interface for working with OpenStack Cloud virtual machines
-- Partnered with NSF ACCESS Jetstream-2 for more and larger virtual machines.
+- Partnered with NSF XSEDE/ACCESS Jetstream-2 for more and larger virtual machines.
 
 ### Atmosphere
 
-- 
+- [Request access to Atmosphere](https://user.cyverse.org/services)
+- [Use Atmosphere](https://atmo.cyverse.org/application/images)
 
 ### Jetstream-2
 
-- 
-
-## Account Creation
-
-- [Create a CyVerse account](http://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
+- Create an [XSEDE/ACCESS user account](https://portal.xsede.org/#/guest)
+- Request a start-up allocation on [Jetstream-2](https://jetstream-cloud.org/)
 
 ## Choosing a Platform
 
