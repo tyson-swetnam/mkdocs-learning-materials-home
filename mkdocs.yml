@@ -31,7 +31,7 @@ extra_javascript:
 # Set theme to `readthedocs`
 # must also set Action to use `@nomaterial` branch instead of `@master` for material
 theme:
-  name: readthedocs
+  name: material
 
   # Default values, taken from mkdocs_theme.yml
   language: en
